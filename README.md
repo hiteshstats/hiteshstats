@@ -1,7 +1,7 @@
--👋 Hi, I’m Hitesh Bagade @hiteshstats
--👀 I’m a Data Scientist Certified by ETLHive
--🌱 My topics of Interest are Machine Learning, GenerativeAI, NLP, Predictive Analysis
--💞️ Have Experience in AWS Deployment of Web Applications, Data Science, NLP
+-👋 Hi, I’m Hitesh Bagade @hiteshstats                                                                                                     
+-👀 I’m a Data Scientist Certified by ETLHive                                                                                             
+-🌱 My topics of Interest are Machine Learning, GenerativeAI, NLP, Predictive Analysis                                                    
+-💞️ Have Experience in AWS Deployment of Web Applications, Data Science, NLP                                                              
 -📫 How to reach me hitesh.bagade9096@gmail.com
 
 <!---
