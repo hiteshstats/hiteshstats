@@ -1,7 +1,7 @@
--👋 Hi, I’m Hitesh Bagade @hiteshstats                                                                                                     
--👀 I’m a Data Scientist Certified by ETLHive                                                                                             
--🌱 My topics of Interest are Machine Learning, GenerativeAI, NLP, Predictive Analysis                                                    
--💞️ Have Experience in AWS Deployment of Web Applications, Data Science, NLP                                                              
+-👋 Hi, My name is Hitesh Bagade @hiteshstats                                                                                                     
+-👀 I’m a Microsoft Certified Azure Data Engineer Associate. With background in Statistics.                                                                                            
+-🌱 My topics of Interest are Big Data Analysis, Machine Learning, GenerativeAI, NLP, Predictive Analysis                                                    
+-💞️ Have Hands on experience on industry projects based on Azure cloud, Big data and advance Machine Learning                                                            
 -📫 How to reach me hitesh.bagade9096@gmail.com
 
 <!---
